@@ -1,2 +1,2 @@
 # absensi-pondok-pesantren
-absensi pondok pesantren berbasi web menggunakan HTML
+absensi pondok pesantren berbasis web menggunakan HTML
